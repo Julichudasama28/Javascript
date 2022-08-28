@@ -1,0 +1,26 @@
+.container{
+    text-align: center;
+}
+
+table{
+    margin: auto;
+    
+}
+ 
+input{
+    width: 92%;
+    height: 100%;
+
+}
+button{
+    font-size: 23px;
+    width: 45px;
+    height: 45px;
+}
+
+.calculator{
+    background-color: blueviolet;
+    padding: 23px;
+    border-radius: 32px;
+    display: inline-block;
+}
